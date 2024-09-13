@@ -126,7 +126,7 @@
         "applicatie": "Archivemetica",
         "image": "https://iili.io/JhmlBxs.png",
         "allowedOptions": [
-            "q1Preservation/Archiving",
+            "q1_Preservation/Archiving",
             "q3_Structural/Recurring",
             "q4_Copy",
             "q5_Yes",
